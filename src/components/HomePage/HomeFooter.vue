@@ -22,9 +22,7 @@
                 </div>
             </div>
         </section>
-        <section id="brandfooter">
-            <base-footer class="text-capitalize">All rights are reserved by Instant Eats&#174;</base-footer>
-        </section>
+        <base-footer></base-footer>
     </section>
 </template>
 <script>
@@ -67,9 +65,5 @@
     #buttonp {
         margin: 0.2rem 2rem;
         font-size: 1.1rem;
-    }
-
-    #brandfooter {
-        background-color: rgb(255, 115, 0);
     }
 </style>

@@ -1,7 +1,5 @@
 <template>
-    <footer>
-        <slot></slot>
-    </footer>
+    <footer class="text-capitalize">All rights are reserved by Instant Eats&#174;</footer>
 </template>
 
 <style lang="scss" scoped>
@@ -13,5 +11,6 @@
         // background-color: yellowgreen;
         padding: 0.8rem;
         font-weight: 500;
+        background-color: rgb(255, 115, 0);
     }
 </style>

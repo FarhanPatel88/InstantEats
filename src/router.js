@@ -22,10 +22,12 @@ const router = createRouter({
             path: '/menu',
             name: 'MenuPage',
             component: MenuPage,
+            // props: true,
             children: [
                 {
                     path: ':id',
                     component: FoodItem,
+                    props: true,
                 },
             ],
         },
