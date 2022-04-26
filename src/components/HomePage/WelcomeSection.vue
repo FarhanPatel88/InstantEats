@@ -23,25 +23,23 @@
         },
     };
 </script>
-<style lang="scss" scoped>
+<style lang="css" scoped>
     section#message {
         padding: 5rem;
         display: flex;
         justify-content: center;
         align-items: center;
         flex-wrap: wrap;
-        // max-width: 40%;
-
-        div {
-            margin-top: 1rem;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-
-            a {
-                margin: 0.5rem 2rem;
-            }
-        }
+        /* // max-width: 40%; */
+    }
+    section#message div {
+        margin-top: 1rem;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    section#message div a {
+        margin: 0.5rem 2rem;
     }
     p {
         font-weight: 500;

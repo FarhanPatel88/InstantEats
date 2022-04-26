@@ -14,7 +14,7 @@
     };
 </script>
 
-<style lang="scss" scoped>
+<style lang="css" scoped>
     div {
         display: flex;
         flex-wrap: wrap;
@@ -28,6 +28,6 @@
         background-attachment: fixed;
         background-size: cover;
         border: 1px solid rgb(100, 100, 100);
-        // margin: 1rem;
+        /* // margin: 1rem; */
     }
 </style>

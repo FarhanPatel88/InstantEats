@@ -107,7 +107,7 @@
     };
 </script>
 
-<style lang="scss" scoped>
+<style lang="css" scoped>
     .rounded-5 {
         border-radius: 30px;
     }
@@ -121,8 +121,8 @@
     }
 
     .bg-info-gradient {
-        background-color: rgba($color: #00d9ff, $alpha: 0.3);
+        /* background-color: rgba($color: #00d9ff, $alpha: 0.3); */
+        background-color: rgba(0, 217, 255, 0.3);
         backdrop-filter: blur(3px);
     }
 </style>
-style

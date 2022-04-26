@@ -21,13 +21,13 @@
     };
 </script>
 
-<style lang="scss" scoped>
+<style lang="css" scoped>
     #homeheader {
         background-image: url('../../assets/homeheader2.jpg');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment: scroll;
-        // height: 35vh;
+        /* // height: 35vh; */
     }
 </style>

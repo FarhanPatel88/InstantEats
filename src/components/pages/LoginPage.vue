@@ -45,7 +45,7 @@
     };
 </script>
 
-<style lang="scss" scoped>
+<style lang="css" scoped>
     .login {
         display: flex;
         justify-content: center;
@@ -100,6 +100,7 @@
 
     .blurred {
         height: 100vh;
-        background-color: rgba($color: #000000, $alpha: 0.5);
+        /* background-color: rgba($color: #000000, $alpha: 0.5); */
+        background-color: rgba(0, 0, 0, 0.5);
     }
 </style>

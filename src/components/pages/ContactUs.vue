@@ -78,7 +78,7 @@
         },
     };
 </script>
-<style lang="scss" scoped>
+<style lang="css" scoped>
     .contactus {
         display: flex;
         justify-content: space-evenly;

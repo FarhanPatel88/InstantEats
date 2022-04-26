@@ -67,7 +67,7 @@
     };
 </script>
 
-<style lang="scss" scoped>
+<style lang="css" scoped>
     .w-100 {
         width: 100vmax !important;
     }
@@ -78,10 +78,9 @@
         background-attachment: scroll;
         background-position: center;
         background-size: cover;
-
-        header p {
-            font-weight: 500;
-        }
+    }
+    #whychooseus header p {
+        font-weight: 500;
     }
 
     .cardimg1 {

@@ -48,35 +48,33 @@
 <script>
     export default {};
 </script>
-<style lang="scss" scoped>
-    #pageheader {
-        ul {
-            list-style: none;
-            margin: 0;
-            padding: 0;
+<style lang="css" scoped>
+    #pageheader ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
 
-            li {
-                display: inline-block;
-                margin: 5px;
-                padding: 0 5px;
+    #pageheader ul li {
+        display: inline-block;
+        margin: 5px;
+        padding: 0 5px;
+    }
 
-                :hover {
-                    background-color: rgba(255, 255, 255, 0.2);
-                    border-radius: 10px;
-                }
+    #pageheader ul li:hover {
+        background-color: rgba(255, 255, 255, 0.2);
+        border-radius: 10px;
+    }
 
-                a {
-                    text-decoration: none;
-                    color: rgb(255, 145, 0);
-                    font-size: 18px;
-                    font-weight: 500;
-                }
-            }
-        }
+    #pageheader ul li a {
+        text-decoration: none;
+        color: rgb(255, 145, 0);
+        font-size: 18px;
+        font-weight: 500;
+    }
 
-        #brandlogo {
-            margin: 5px 0;
-        }
+    #pageheader #brandlogo {
+        margin: 5px 0;
     }
 
     .dropdown-li {

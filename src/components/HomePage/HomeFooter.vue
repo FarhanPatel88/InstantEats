@@ -35,7 +35,7 @@
         },
     };
 </script>
-<style lang="scss" scoped>
+<style lang="css" scoped>
     .blurred {
         background-color: rgba(0, 0, 0, 0.5);
         backdrop-filter: blur(2px);
@@ -47,10 +47,10 @@
         background-attachment: fixed;
         background-repeat: no-repeat;
         background-position: top left;
+    }
 
-        header p {
-            font-weight: 500;
-        }
+    #footer header p {
+        font-weight: 500;
     }
 
     textarea {

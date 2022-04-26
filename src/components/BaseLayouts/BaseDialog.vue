@@ -18,7 +18,7 @@
     };
 </script>
 
-<style lang="scss" scoped>
+<style lang="css" scoped>
     div {
         position: fixed;
         top: 0;

@@ -90,7 +90,7 @@
     };
 </script>
 
-<style lang="scss" scoped>
+<style lang="css" scoped>
     .rounded-4 {
         border-radius: 20px;
     }
@@ -112,13 +112,15 @@
 
     .bg-no-image {
         background-image: none;
-        background-color: rgba($color: #ff9204, $alpha: 0.2);
+        /* background-color: rgba($color: #ff9204, $alpha: 0.2); */
+        background-color: rgba(#ff9204, 0.2);
         backdrop-filter: blur(5px);
     }
 
     .bg-item-name {
         background-image: none;
-        background-color: rgba($color: #ffffff, $alpha: 1);
+        /* background-color: rgba($color: #ffffff, $alpha: 1); */
+        background-color: rgba(#ffffff, 1);
     }
 
     .scalefood-enter-from,

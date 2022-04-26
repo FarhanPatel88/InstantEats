@@ -93,7 +93,7 @@
     };
 </script>
 
-<style lang="scss" scoped>
+<style lang="css" scoped>
     #register_page .register_container,
     #register_page .register_container .register_right .login_through .login_type {
         box-shadow: 0px 0px 7px 3px #ff9100;

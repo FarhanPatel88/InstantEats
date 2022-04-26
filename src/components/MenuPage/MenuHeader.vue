@@ -29,7 +29,7 @@
         },
     };
 </script>
-<style lang="scss" scoped>
+<style lang="css" scoped>
     #menuheader {
         background-image: url('../../assets/menuheader.jpg');
         background-attachment: scroll;

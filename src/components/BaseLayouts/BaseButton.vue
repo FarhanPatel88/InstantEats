@@ -24,7 +24,7 @@
     };
 </script>
 
-<style lang="scss" scoped>
+<style lang="css" scoped>
     button,
     a {
         padding: 0.5rem 0;

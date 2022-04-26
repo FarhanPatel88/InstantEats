@@ -106,7 +106,7 @@
         },
     };
 </script>
-<style lang="scss" scoped>
+<style lang="css" scoped>
     #mycartpage {
         background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask3137%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='url(%23SvgjsLinearGradient3138)'%3e%3c/rect%3e%3cpath d='M396.59 630.26C559.98 627.61 686.02 432.17 1017.09 424.7 1348.15 417.23 1469.7 172.15 1637.58 167.1' stroke='rgba(51%2c 121%2c 194%2c 0.65)' stroke-width='2'%3e%3c/path%3e%3cpath d='M626.1 659.92C765.11 654.48 857.45 436.65 1131.91 427.97 1406.38 419.29 1502.16 235.36 1637.73 231.97' stroke='rgba(51%2c 121%2c 194%2c 0.65)' stroke-width='2'%3e%3c/path%3e%3cpath d='M961.27 565.98C1073.94 482.19 1000.3 69.48 1203.6 59.29 1406.9 49.1 1562.14 197.9 1688.25 199.29' stroke='rgba(51%2c 121%2c 194%2c 0.65)' stroke-width='2'%3e%3c/path%3e%3cpath d='M228.36 595.75C419.34 581 552.24 202.23 885.33 201.46 1218.42 200.69 1372.43 373.6 1542.3 375.06' stroke='rgba(51%2c 121%2c 194%2c 0.65)' stroke-width='2'%3e%3c/path%3e%3cpath d='M885.62 636.55C969.74 618.5 917.11 415.8 1134.4 398.78 1351.68 381.76 1496.73 190.38 1631.95 185.98' stroke='rgba(51%2c 121%2c 194%2c 0.65)' stroke-width='2'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask3137'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='15.28%25' y1='-39.29%25' x2='84.72%25' y2='139.29%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient3138'%3e%3cstop stop-color='rgba(255%2c 255%2c 255%2c 1)' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(255%2c 84%2c 0%2c 1)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");
         background-position: center;
@@ -168,6 +168,7 @@
     }
 
     #cartbg {
-        background-color: rgba($color: #d0ff00, $alpha: 0.1);
+        /* background-color: rgba($color: #d0ff00, $alpha: 0.1); */
+        background-color: rgba(208, 255, 0, 0.1);
     }
 </style>

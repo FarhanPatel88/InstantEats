@@ -34,7 +34,7 @@
         },
     };
 </script>
-<style lang="scss" scoped>
+<style lang="css" scoped>
     .modal-enter-from,
     .modal-leave-to {
         transform: translate(-100vw);
